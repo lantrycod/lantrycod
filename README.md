@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudando Java, HTML e CSS, tenho conhecimento básico de Python.<br>Focando em fazer um projeto de ficha interetiva de D&D 5e, com a possibilidade <br>de conteúdos homebrew e até outros sistemas parecidos.
+Estudando Javascript, HTML e CSS, tenho conhecimento básico de Python.<br>Focando em fazer um projeto de ficha interetiva de D&D 5e, com a possibilidade <br>de conteúdos homebrew e até outros sistemas parecidos.
 
 
 ## 🌐 Socials:
